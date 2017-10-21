@@ -1,0 +1,114 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/10/2017, 11:40:11 AM
+    Author     : usuario
+*/
+
+.error{
+    color: red;
+    font-size: 10px;
+}
+
+#ayudas{
+    display: none;
+}
+
+.mimouse{
+    cursor: pointer;
+    font-size: 12px;
+    color: #000;
+    background: #fff;
+    transition: background, 1s; 
+}
+
+.mimouse:hover{
+    background: #222222;
+    font-style: oblique;
+    color: #fff;
+}
+
+.mimouse1{
+    cursor: pointer;
+    font-size: 12px;
+    color: #000;
+    background: #fff;
+    transition: background, 2s; 
+}
+
+.mimouse1:hover{
+    background: #ff291c;
+    font-weight: bold;
+}
+
+#foto{
+    
+    border-radius: 30px;
+    margin-left: 130px;
+    transition: background, 1s;
+}
+
+#foto:hover{
+    margin-left: 150px;
+}
+
+#uni{
+    margin-left: 100px;
+    width: 200px;
+    transition: background, 1s;
+    
+    
+}
+
+
+#uni:hover{
+    text-align: center;
+    width: 230px;
+     
+    
+}
+
+#textou{
+    color: #0c516c;
+    
+}
+
+#textou:hover{
+    color: #29ade0;
+    background-color: #fff;
+    
+    
+}
+
+#EU{
+   background-color: #fff; 
+   color: #222222;
+   transition: background, 1s;
+}
+
+#EU:hover{
+    background-color: #022a50;
+    color: #fff;
+}
+
+#finc{
+    width: 80px;
+    
+}
+
+#titulo{
+    color: #022a50;
+    transition: background, 1s;
+}
+
+#titulo:hover{
+    color: #29ade0;
+    margin-left: 80px;
+}
+
+
+
+ 
